@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Two Activities Practice</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="send_button">SEND</string>
+    <string name="enter_message_here_hint">Enter Message here</string>
+    <string name="reply_received">Reply Received</string>
+    <string name="enter_reply_second_activity_hint">Enter Reply</string>
+    <string name="reply_button">REPLY</string>
+    <string name="message_received_from_first_activity">Message Received</string>
+</resources>
